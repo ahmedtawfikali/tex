@@ -259,3 +259,9 @@ video {
 }
 @media (max-width: 767px) {
 
+  .AIRCRAFT{
+    margin-top: -97px;
+    margin-bottom: -21px;
+  }
+ 
+} 
